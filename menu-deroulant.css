@@ -72,7 +72,7 @@ nav li:hover .submenu{
 }
 
 .menu-html:hover{
-	border-top: 5px solid #e44d26;
+	border-top: 5px solid #0096F0;
 	background-color: RGBa(228, 77, 38, 0.15);
 }
 
@@ -94,7 +94,7 @@ nav > ul > li:hover a{
 }
 
 .menu-html .submenu{
-	background-color: RGB(230, 100, 40);
+	background-color: RGB(000, 150, 240);
 }
 
 .menu-css .submenu{
@@ -102,7 +102,7 @@ nav > ul > li:hover a{
 }
 
 .menu-js .submenu{
-	background-color: RGB(251, 216, 99);
+	background-color: RGB(000, 150, 240);
 }
 
 .submenu li:hover a{
